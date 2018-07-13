@@ -1,3 +1,4 @@
+// code to find speed of sound usong ultrasonic sensor and it's activation using clap switch
 #include<LiquidCrystal.h>
 LiquidCrystal lcd(12,11,5,4,3,2);
 int sensorValue = 0,sensorValue1=0;
